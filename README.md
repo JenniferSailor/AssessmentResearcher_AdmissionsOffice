@@ -6,7 +6,9 @@ Description: As a member of the Student Assessment Scholars program at Lindenwoo
 Keywords: Data Analytics, RStudio, Research, NLP
 
 Responsibilities:
-(to be added soon ...)
+- Collaborated within a cross-functional team on departmental analytical projects for academic affairs
+- Analyzed qualitative data in R using natural language processing techniques
+- Presented results for multiple unique proposal projects that influenced several department improvement
 
 Links: (n/a)
 
